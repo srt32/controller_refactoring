@@ -1,19 +1,14 @@
 =======
-fourthmeal
+Controller Refactoring
 ==========
 
-Fourth Meal takes a Dinner Dash online ordering project and transforms it from a single restaurant to one that serves many.
 
-Original Site:
-[Ono Burrito Website](http://onoburrito.herokuapp.com/)
 
-Current Site:
-[Fourthmeal Staging](http://staging-fourthmeal.herokuapp.com/)
-[Fourthmeal Production](http://fourthmeal.herokuapp.com/)
+In this project I refactored an overly complicated 
 
-**Project Spec from Jumpstartlabs:**
-[Dinner Dash Project Spec](http://tutorials.jumpstartlab.com/projects/dinner_dash.html)
-[Fourth Meal Project Spec](http://tutorials.jumpstartlab.com/projects/fourth_meal.html)
+For a more detailed explanation of the refactoring process, check out **[this blog post](http://www.simontaranto.com/2013/12/11/it-all-comes-together-ruby-js-and-functional-	programming.html)**.
+
+### To run the app:
 
 To run tests:
 `rake test_all`
@@ -30,7 +25,5 @@ To Run and view code:
  
  Run the server: 
  `$ rails s`
- 
- View the page on localhost:3000 is the normal default
  
  Good to go!
