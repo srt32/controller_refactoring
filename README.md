@@ -4,7 +4,7 @@ Controller Refactoring
 
 ### A detailed explanation
 
-For a more detailed explanation of the refactoring process, check out **[this blog post](http://www.simontaranto.com/2013/12/11/it-all-comes-together-ruby-js-and-functional-	programming.html)**.
+For a more detailed explanation of the refactoring process, check out **[this blog post](http://www.simontaranto.com/2013/12/11/it-all-comes-together-ruby-js-and-functional-programming.html)**.
 
 ### Summary
 
